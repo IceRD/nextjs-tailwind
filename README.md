@@ -1,30 +1,41 @@
-# NextJS
+### NextJS
 
+```
 yarn dev
+```
 
+```
 yarn build
 yarn start
+```
 
-# SVGR
+### SVGR
 
+```
 yarn svgr
+```
 
-# lighthouse-ci
+### lighthouse-ci
 
+```
 yarn lhci:mobile
-yarn lhci:desktop
+```
 
-# Tailwind
+```
+yarn lhci:desktop
+```
+
+### Tailwind
 
 3.x.x
 
-# Storybook
+### Storybook
 
 yarn storybook
 yarn build-storybook
 
-# Typescript
+### Typescript
 
-# Eslint + Prettier
+### Eslint + Prettier
 
-# Docker
+### Docker
