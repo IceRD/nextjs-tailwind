@@ -31,8 +31,13 @@ yarn lhci:desktop
 
 ### Storybook
 
+```
 yarn storybook
+```
+
+```
 yarn build-storybook
+```
 
 ### Typescript
 
